@@ -13,3 +13,5 @@
 | B-007 | Подключить автопроверку планов/результатов через global skill | done | high | Локальная папка `skills/` удалена, процесс вынесен в `workflow/PROCESS.md` |
 | B-008 | Добавить device-specific раздел по Redmi Note 12 Pro+ | done | high | Добавлен `guide/08_device_specific.md` с источниками |
 | B-009 | Добавить визуальные схемы "куда нажимать" | done | high | Добавлены SVG-схемы и встройка в `guide/01`, `guide/05`, `guide/07` |
+| B-010 | Перевести мануал в single-page формат | done | high | Весь основной контент консолидирован в `README.md` |
+| B-011 | Добавить схемы интерфейса режимов и Pro-контролов | done | medium | Добавлены `camera_mode_switch_map.svg` и `pro_controls_map.svg` |

@@ -24,3 +24,5 @@
 - Локальная папка `skills/` удалена, проект переведен на глобальный skill `claude-plan-advisor`
 - Добавлены визуальные SVG-схемы "куда нажимать" в `assets/examples/ui/`
 - В `guide/01_quick_start.md`, `guide/05_night.md`, `guide/07_postprocessing.md` добавлены встроенные иллюстрации
+- Мануал консолидирован в single-page формат в `README.md`
+- Добавлены дополнительные схемы интерфейса: `camera_mode_switch_map.svg` и `pro_controls_map.svg`

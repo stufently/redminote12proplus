@@ -65,6 +65,8 @@ AGENTS.md         Правила для Codex и других агентов
 CLAUDE.md         Быстрый вход для Claude Code
 ```
 
+Правила для примеров: [assets/examples/README.md](assets/examples/README.md)
+
 ## Правило завершения каждой сессии
 
 Перед паузой всегда:

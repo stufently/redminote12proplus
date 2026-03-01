@@ -114,6 +114,16 @@
 - Задний свет (окно за спиной) — лицо темное; развернитесь лицом к свету
 - Грязная фронталка — мыльный кадр; протрите перед съемкой
 
+### Примеры
+
+- [selfie-outdoor-day-01.jpg](assets/examples/selfie/selfie-outdoor-day-01.jpg)
+- [selfie-window-light-01.jpg](assets/examples/selfie/selfie-window-light-01.jpg)
+- [selfie-evening-warm-01.jpg](assets/examples/selfie/selfie-evening-warm-01.jpg)
+- [selfie-mirror-01.jpg](assets/examples/selfie/selfie-mirror-01.jpg)
+
+![Selfie outdoor day](assets/examples/selfie/selfie-outdoor-day-01.jpg)
+![Selfie window light](assets/examples/selfie/selfie-window-light-01.jpg)
+
 ## Портрет
 
 ### Быстрый алгоритм
@@ -220,6 +230,16 @@
 - Грязный фон (салфетки, мусор) — уберите лишнее из кадра
 - Слишком далеко — еда теряется, подойдите ближе или используйте `2x`
 
+### Примеры
+
+- [food-flatlay-01.jpg](assets/examples/food/food-flatlay-01.jpg)
+- [food-cafe-angle-01.jpg](assets/examples/food/food-cafe-angle-01.jpg)
+- [food-dessert-closeup-01.jpg](assets/examples/food/food-dessert-closeup-01.jpg)
+- [food-streetfood-01.jpg](assets/examples/food/food-streetfood-01.jpg)
+
+![Food flat lay](assets/examples/food/food-flatlay-01.jpg)
+![Food dessert closeup](assets/examples/food/food-dessert-closeup-01.jpg)
+
 ## Групповое фото
 
 ### Быстрый алгоритм
@@ -242,6 +262,15 @@
 - Солнце в лицо всей группе — развернитесь спиной к солнцу или встаньте в тень
 - Ультраширик `0.6x` искажает крайних людей — поставьте их чуть ближе к центру
 - Мало дублей — всегда снимайте 5+ кадров, потом выберете лучший
+
+### Примеры
+
+- [group-friends-outdoor-01.jpg](assets/examples/group/group-friends-outdoor-01.jpg)
+- [group-cafe-table-01.jpg](assets/examples/group/group-cafe-table-01.jpg)
+- [group-celebration-01.jpg](assets/examples/group/group-celebration-01.jpg)
+
+![Group friends outdoor](assets/examples/group/group-friends-outdoor-01.jpg)
+![Group cafe table](assets/examples/group/group-cafe-table-01.jpg)
 
 ## Видео
 

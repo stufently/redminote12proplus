@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <defs>
+    <filter id="enhance">
+      <feColorMatrix type="saturate" values="1.12"/>
+      <feComponentTransfer>
+        <feFuncR type="gamma" amplitude="1.0" exponent="0.95" offset="0"/>
+        <feFuncG type="gamma" amplitude="1.0" exponent="0.95" offset="0"/>
+        <feFuncB type="gamma" amplitude="1.0" exponent="0.95" offset="0"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <rect width="1600" height="900" fill="#0b1220"/>
+  <text x="80" y="70" fill="#cbd5e1" font-size="44" font-family="Arial">Before</text>
+  <text x="860" y="70" fill="#cbd5e1" font-size="44" font-family="Arial">After (Highlights -, Shadows +, Warmth +)</text>
+  <rect x="40" y="100" width="720" height="760" fill="#111827" stroke="#334155" stroke-width="4"/>
+  <rect x="840" y="100" width="720" height="760" fill="#111827" stroke="#334155" stroke-width="4"/>
+  <image href="../portrait/portrait-window-day-01.jpg" x="50" y="110" width="700" height="740" preserveAspectRatio="xMidYMid slice"/>
+  <image href="../portrait/portrait-window-day-01.jpg" x="850" y="110" width="700" height="740" preserveAspectRatio="xMidYMid slice" filter="url(#enhance)"/>
+</svg>

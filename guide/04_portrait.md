@@ -67,3 +67,13 @@
 - Ошибки размытия по волосам: снимите дубль в `Фото` без портретного размытия
 - Сильный шум вечером: подойдите ближе к источнику света и снимайте без зума
 - Тусклый кадр: добавьте свет, не пытайтесь спасать только обработкой
+
+## Реальные примеры
+
+- [portrait-window-day-01.jpg](../assets/examples/portrait/portrait-window-day-01.jpg) - мягкий дневной свет от окна, чистый тон кожи
+- [portrait-window-day-02.jpg](../assets/examples/portrait/portrait-window-day-02.jpg) - тот же сценарий с другим ракурсом, лучше читается объем лица
+- [portrait-street-evening-01.jpg](../assets/examples/portrait/portrait-street-evening-01.jpg) - вечерняя улица, экспозиция в минус для сохранения атмосферы
+- [portrait-cafe-evening-01.jpg](../assets/examples/portrait/portrait-cafe-evening-01.jpg) - теплый свет в интерьере, приоритет на лицо и контроль пересветов ламп
+
+![Portrait example window light](../assets/examples/portrait/portrait-window-day-01.jpg)
+![Portrait example street evening](../assets/examples/portrait/portrait-street-evening-01.jpg)

@@ -16,17 +16,12 @@
 
 ## Автосовет по плану
 
-При необходимости внешнего second opinion запускайте:
-
-```bash
-python3 skills/claude-plan-advisor/scripts/ask_claude_plan_advice.py
-```
-
-С фокусом:
-
-```bash
-python3 skills/claude-plan-advisor/scripts/ask_claude_plan_advice.py --focus "..."
-```
+- Для проекта используется глобальный skill Codex `claude-plan-advisor`.
+- Локальный `skills/` в репозитории не используется.
+- Проверка должна проходить автоматически на этапах:
+  - планирования;
+  - выполнения;
+  - финальной валидации результата.
 
 ## Минимальный handoff перед выходом
 

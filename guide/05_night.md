@@ -12,6 +12,8 @@
 3. Используйте `1x` как основной вариант
 4. Заранее выберите точку фокуса на главном объекте
 
+![Night stability flow](../assets/examples/ui/night_stability_flow.svg)
+
 ## Во время съемки (критично)
 
 - Нажмите кнопку и держите смартфон неподвижно до завершения кадра
@@ -63,3 +65,13 @@
 - Пересвет вывесок: немного затемнить экспозицию до съемки
 - Лицо темное на фоне ярких огней: повернуть человека к источнику света
 - Картинка "грязная" по цвету: снять дополнительный дубль в `Фото` для сравнения
+
+## Реальные примеры
+
+- [night-city-signs-01.jpg](../assets/examples/night/night-city-signs-01.jpg) - городской кадр с вывесками, экспозиция снижена для контроля ярких зон
+- [night-city-signs-02.jpg](../assets/examples/night/night-city-signs-02.jpg) - дубль той же сцены с другой экспозицией для выбора лучшего баланса
+- [night-neon-street-01.jpg](../assets/examples/night/night-neon-street-01.jpg) - неоновый свет, акцент на сохранении цвета и контраста
+- [night-light-trails-01.jpg](../assets/examples/night/night-light-trails-01.jpg) - сюжет с движением света, важна стабильная фиксация смартфона
+
+![Night example city signs](../assets/examples/night/night-city-signs-01.jpg)
+![Night example neon street](../assets/examples/night/night-neon-street-01.jpg)

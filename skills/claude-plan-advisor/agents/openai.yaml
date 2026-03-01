@@ -1,4 +1,0 @@
-interface:
-  display_name: "Claude Plan Advisor"
-  short_description: "Asks Claude Code for advice using workflow plan/progress files."
-  default_prompt: "Collect plan and completed-task context from workflow files, ask Claude Code for concrete advice, then apply or queue improvements."

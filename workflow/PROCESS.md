@@ -24,9 +24,9 @@
 ## Структура репозитория
 
 ```text
-guide/            Основные разделы мануала
+README.md         Основной single-page мануал
 assets/photos/    Исходные фото и тестовые кадры
-assets/examples/  Иллюстрации и примеры для гайда
+assets/examples/  Иллюстрации и примеры для мануала
 workflow/         Файлы состояния и handoff
 AGENTS.md         Правила для Codex и других агентов
 CLAUDE.md         Быстрый вход для Claude Code

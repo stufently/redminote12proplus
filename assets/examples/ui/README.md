@@ -1,24 +1,23 @@
 # UI Screenshots
 
-Здесь должны лежать реальные скриншоты интерфейса камеры с Redmi Note 12 Pro+.
+Реальные скриншоты интерфейса камеры Redmi Note 12 Pro+ и Google Photos.
 
-## Как сделать скриншоты
+## Камера (из обзора GSMArena)
 
-На телефоне: **Power + Volume Down** одновременно (или свайп тремя пальцами вниз).
+| Файл | Что показано |
+|---|---|
+| `camera-photo-mode.jpg` | Главный экран — режим Photo |
+| `camera-settings-menu.jpg` | Меню настроек (таймер, соотношение сторон, сетка, Macro) |
+| `camera-video-mode.jpg` | Режим Video — выбор разрешения 720P/1080P/4K |
+| `camera-night-mode.jpg` | Режим Night |
+| `camera-pro-mode.jpg` | Режим Pro — контролы WB/F/S/ISO/EV/LENS |
+| `camera-more-modes.jpg` | Дополнительные режимы (Ultra HD, Panorama, VLOG, Slow motion) |
+| `camera-200mp-mode.jpg` | Режим 200MP Ultra HD |
 
-## Какие скриншоты нужны
+## Google Photos
 
-| Файл | Что снять | Режим |
-|---|---|---|
-| `camera-main-ui.jpg` | Главный экран камеры в режиме Фото | Фото |
-| `camera-portrait-mode.jpg` | Экран в режиме Портрет | Портрет |
-| `camera-night-mode.jpg` | Экран в режиме Ночь | Ночь |
-| `camera-pro-mode.jpg` | Экран в режиме Pro с видимыми ползунками WB/ISO/S/EV | Pro |
-| `camera-video-mode.jpg` | Экран в режиме Видео | Видео |
-| `google-photos-edit.jpg` | Google Photos с открытой панелью Edit | Google Photos |
-
-## После получения скриншотов
-
-1. Положить файлы в эту папку
-2. Добавить ссылки в `README.md` в соответствующие разделы
-3. Закоммитить и запушить
+| Файл | Что показано |
+|---|---|
+| `google-photos-edit-menu.jpg` | Экран фото с кнопкой Edit |
+| `google-photos-adjust-tools.jpg` | Панель Adjust (Brightness, Contrast, HDR, Save copy) |
+| `google-photos-adjust-scene.jpg` | Ползунок Contrast в действии |
